@@ -6,6 +6,7 @@ function App() {
   return (
     <>
       <h1>Testando</h1>
+      <h2>outro teste</h2>
       <div className={style.page}>
         <Container
           avatar={imgProfile}
